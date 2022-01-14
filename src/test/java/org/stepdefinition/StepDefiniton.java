@@ -147,9 +147,13 @@ public class StepDefiniton extends BaseClass {
 		 }else {
 		 System.out.println("Not in Password Reset Page");
 		 }
+		 System.out.println("Last line updated");
+			System.out.println("Jerrick updating");
+		System.out.println("Jerome updating....");
 		System.out.println("Last line updated");
 		System.out.println("Jerrick updating");
 		System.out.println("End of jerrick");
+
 		
 	}
 	
