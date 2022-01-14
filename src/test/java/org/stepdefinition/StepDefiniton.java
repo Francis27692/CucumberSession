@@ -147,7 +147,7 @@ public class StepDefiniton extends BaseClass {
 		 }else {
 		 System.out.println("Not in Password Reset Page");
 		 }
-		
+		System.out.println("Jerome updating");
 		
 	}
 
